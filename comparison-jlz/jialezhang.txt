@@ -1,0 +1,90 @@
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:234.902
+number:100
+total:2302.466
+iot:12.944
+node:470.470
+server:537.541
+agg:201.858
+de:7.343
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:405.978
+number:200
+total:4599.400
+iot:12.837
+node:949.251
+server:1082.681
+agg:403.565
+de:6.462
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:604.694
+number:300
+total:6896.681
+iot:12.893
+node:1412.858
+server:1615.784
+agg:605.075
+de:6.536
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:796.993
+number:400
+total:9140.764
+iot:12.911
+node:1859.219
+server:2117.283
+agg:796.989
+de:6.446
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:997.884
+number:500
+total:11527.211
+iot:12.904
+node:2335.705
+server:2739.458
+agg:1008.085
+de:6.482
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:1197.673
+number:600
+total:13801.090
+iot:12.851
+node:2804.641
+server:3285.696
+agg:1205.736
+de:6.316
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:1411.121
+number:700
+total:16171.162
+iot:12.961
+node:3316.673
+server:3781.664
+agg:1415.475
+de:6.477
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:1589.677
+number:800
+total:18205.673
+iot:12.763
+node:3736.512
+server:4258.462
+agg:1600.233
+de:6.450
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:1806.868
+number:900
+total:20820.596
+iot:12.934
+node:4268.197
+server:4911.662
+agg:1822.365
+de:6.524
+gcc -o  out jialezhang.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+response:2009.132
+number:1000
+total:23114.307
+iot:12.963
+node:4743.080
+server:5407.867
+agg:2033.194
+de:6.562
