@@ -1,0 +1,80 @@
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:100
+total:1192.153
+iot:9.145
+node:271.298
+server:6.397
+agg:267.133
+de:3.281
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:200
+total:2361.703
+iot:9.097
+node:535.933
+server:6.364
+agg:531.784
+de:3.256
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:300
+total:3626.001
+iot:9.366
+node:809.482
+server:6.622
+agg:805.145
+de:3.309
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:400
+total:4923.326
+iot:9.457
+node:1134.021
+server:6.443
+agg:1129.809
+de:3.292
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:500
+total:6072.168
+iot:9.450
+node:1340.658
+server:6.389
+agg:1336.484
+de:3.281
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:600
+total:7215.824
+iot:9.334
+node:1608.720
+server:6.423
+agg:1604.516
+de:3.293
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:700
+total:8454.986
+iot:9.400
+node:1868.099
+server:6.618
+agg:1863.726
+de:3.328
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:800
+total:9613.492
+iot:9.311
+node:2158.219
+server:6.508
+agg:2154.044
+de:3.336
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:900
+total:10672.780
+iot:9.183
+node:2401.623
+server:6.447
+agg:2397.362
+de:3.313
+gcc -o  out rongxinglu.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:1000
+total:11963.886
+iot:9.266
+node:2691.581
+server:6.533
+agg:2687.315
+de:3.342
