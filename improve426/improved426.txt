@@ -1,0 +1,80 @@
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:100
+total:1114.232
+iot:8.696
+node:215.528
+server:19.401
+agg:212.246
+de:16.553
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:200
+total:2183.166
+iot:8.632
+node:436.819
+server:19.809
+agg:433.556
+de:16.951
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:300
+total:3260.193
+iot:8.568
+node:670.056
+server:20.306
+agg:666.771
+de:17.447
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:400
+total:4438.934
+iot:8.522
+node:1011.067
+server:21.815
+agg:1007.792
+de:18.962
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:500
+total:5670.673
+iot:8.911
+node:1196.191
+server:21.130
+agg:1192.902
+de:18.268
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:600
+total:6649.435
+iot:8.609
+node:1463.495
+server:21.705
+agg:1460.190
+de:18.819
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:700
+total:7882.248
+iot:8.700
+node:1772.110
+server:22.055
+agg:1768.796
+de:19.160
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:800
+total:9016.589
+iot:8.684
+node:2048.277
+server:22.284
+agg:2044.973
+de:19.401
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:900
+total:10380.820
+iot:8.880
+node:2368.590
+server:22.693
+agg:2365.305
+de:19.843
+gcc -o  out improved426.c -I ~/.local/include/pbc -L ~/.local/lib -Wl,-rpath ~/.local/lib  -l pbc -lgmp
+number:1000
+total:11455.341
+iot:8.737
+node:2697.788
+server:23.064
+agg:2694.487
+de:20.198
